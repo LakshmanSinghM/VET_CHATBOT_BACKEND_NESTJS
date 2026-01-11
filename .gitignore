@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Vite
+dist/
+.vite/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Build
+build/
+
+# Coverage
+coverage/
